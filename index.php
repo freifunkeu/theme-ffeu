@@ -9,7 +9,7 @@
         <div class="wrapper">
             <div id="logo">
                 <a href="/">
-                    <img alt="freifunk Euskirchen" src="/wp-content/themes/Freifunk-Webseite/images/logo.png" /></a>
+                    <img alt="freifunk Euskirchen" src="<?php echo  get_bloginfo('template_directory'); ?>/images/logo.png" /></a>
             </div>
             <div id="freifunkhead">
                 <a href="/">
