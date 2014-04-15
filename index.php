@@ -16,10 +16,6 @@
                     <h1>Freifunk Euskirchen</h1>
                 </a>
                 <ul class="links">
-                   <!-- <li><a href="/mitmachen">Mitmachen!</a></li>
-                    <li><a href="/treffen">Treffen</a></li>
-                    <li><a href="/kontakt">Kontakt</a></li>
-                    <li><a href="/firmware">Firmware</a></li> -->
                     <?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
                 </ul>
             </div>
